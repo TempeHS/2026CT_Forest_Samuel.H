@@ -240,7 +240,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.049078, y: -0.0000060797}
+  m_AnchoredPosition: {x: 0.049072266, y: 0}
   m_SizeDelta: {x: 6.9762, y: 0.80008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &123552882
@@ -879,12 +879,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 652833942}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.998657, y: -4.48999, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1085298563}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &662947610
 GameObject:
@@ -1517,7 +1517,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.049254894, y: 0}
+  m_AnchoredPosition: {x: 0.04925537, y: 0}
   m_SizeDelta: {x: 0.09851, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &879036194
@@ -1679,13 +1679,14 @@ RectTransform:
   - {fileID: 1786626158}
   - {fileID: 879036193}
   - {fileID: 827527752}
+  - {fileID: 652833945}
   m_Father: {fileID: 2053618084}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -593.96, y: -269.61}
-  m_SizeDelta: {x: 6.8773, y: 0.80002}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: -9.998657, y: -542.91003}
+  m_SizeDelta: {x: 6.8773193, y: 0.8000183}
+  m_Pivot: {x: 0, y: 1}
 --- !u!114 &1085298564
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2196,7 +2197,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -2641,7 +2642,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0.098498106, y: 0.0000027120113}
+  m_AnchoredPosition: {x: 0.09851074, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1786626159
@@ -3481,5 +3482,4 @@ SceneRoots:
   - {fileID: 1873072770}
   - {fileID: 1693316601}
   - {fileID: 1550845108}
-  - {fileID: 652833945}
   - {fileID: 2053618084}
