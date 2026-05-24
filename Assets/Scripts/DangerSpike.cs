@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class SpikeDamage : MonoBehaviour
 {
-    public int damageAmount = 10;
+    public const int DamageAmount = 10;
+
     public HealthBarScript healthBar;
 
     void Awake()
@@ -18,7 +19,7 @@ public class SpikeDamage : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            healthBar.(10);
+            healthBar.TakeDamage(DamageAmount);
         }
     }
 }

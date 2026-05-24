@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{FE4A5CC0-2546-7457-EDE7-91AE16BDDA55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{C0A7E16D-4A5A-4C46-B45A-35C1617817D4}"
+	ProjectSection(SolutionItems) = preProject
+		ssets\DefaultVolumeProfile.asset = ssets\DefaultVolumeProfile.asset
+		ssets\DefaultVolumeProfile.asset.meta = ssets\DefaultVolumeProfile.asset.meta
+		ssets\Grass Ground.png = ssets\Grass Ground.png
+		ssets\Grass Ground.png.meta = ssets\Grass Ground.png.meta
+		ssets\InputSystem_Actions.inputactions = ssets\InputSystem_Actions.inputactions
+		ssets\InputSystem_Actions.inputactions.meta = ssets\InputSystem_Actions.inputactions.meta
+		ssets\Materials.meta = ssets\Materials.meta
+		ssets\Materials\Bar.png = ssets\Materials\Bar.png
+		ssets\Materials\Bar.png.meta = ssets\Materials\Bar.png.meta
+		ssets\Materials\Heart(1).png = ssets\Materials\Heart(1).png
+		ssets\Materials\Heart(1).png.meta = ssets\Materials\Heart(1).png.meta
+		ssets\Materials\Heart.png = ssets\Materials\Heart.png
+		ssets\Materials\Heart.png.meta = ssets\Materials\Heart.png.meta
+		ssets\Materials\No Friction.physicsMaterial2D = ssets\Materials\No Friction.physicsMaterial2D
+		ssets\Materials\No Friction.physicsMaterial2D.meta = ssets\Materials\No Friction.physicsMaterial2D.meta
+		ssets\Scenes.meta = ssets\Scenes.meta
+		ssets\Scenes\Game.unity = ssets\Scenes\Game.unity
+		ssets\Scenes\Game.unity.meta = ssets\Scenes\Game.unity.meta
+		ssets\Scripts.meta = ssets\Scripts.meta
+		ssets\Scripts\DangerSpike.cs = ssets\Scripts\DangerSpike.cs
+		ssets\Scripts\DangerSpike.cs.meta = ssets\Scripts\DangerSpike.cs.meta
+		ssets\Scripts\HealthBarScript.cs = ssets\Scripts\HealthBarScript.cs
+		ssets\Scripts\HealthBarScript.cs.meta = ssets\Scripts\HealthBarScript.cs.meta
+		ssets\Scripts\PlayerMovement.cs = ssets\Scripts\PlayerMovement.cs
+		ssets\Scripts\PlayerMovement.cs.meta = ssets\Scripts\PlayerMovement.cs.meta
+		ssets\Settings.meta = ssets\Settings.meta
+		ssets\Settings\Lit2DSceneTemplate.scenetemplate = ssets\Settings\Lit2DSceneTemplate.scenetemplate
+		ssets\Settings\Lit2DSceneTemplate.scenetemplate.meta = ssets\Settings\Lit2DSceneTemplate.scenetemplate.meta
+		ssets\Settings\Renderer2D.asset = ssets\Settings\Renderer2D.asset
+		ssets\Settings\Renderer2D.asset.meta = ssets\Settings\Renderer2D.asset.meta
+		ssets\Settings\Scenes.meta = ssets\Settings\Scenes.meta
+		ssets\Settings\Scenes\URP2DSceneTemplate.unity = ssets\Settings\Scenes\URP2DSceneTemplate.unity
+		ssets\Settings\Scenes\URP2DSceneTemplate.unity.meta = ssets\Settings\Scenes\URP2DSceneTemplate.unity.meta
+		ssets\Settings\UniversalRP.asset = ssets\Settings\UniversalRP.asset
+		ssets\Settings\UniversalRP.asset.meta = ssets\Settings\UniversalRP.asset.meta
+		ssets\Sprites.meta = ssets\Sprites.meta
+		ssets\Sprites\untitled.png = ssets\Sprites\untitled.png
+		ssets\Sprites\untitled.png.meta = ssets\Sprites\untitled.png.meta
+		ssets\UniversalRenderPipelineGlobalSettings.asset = ssets\UniversalRenderPipelineGlobalSettings.asset
+		ssets\UniversalRenderPipelineGlobalSettings.asset.meta = ssets\UniversalRenderPipelineGlobalSettings.asset.meta
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4A5CC0-2546-7457-EDE7-91AE16BDDA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4A5CC0-2546-7457-EDE7-91AE16BDDA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4A5CC0-2546-7457-EDE7-91AE16BDDA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4A5CC0-2546-7457-EDE7-91AE16BDDA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
